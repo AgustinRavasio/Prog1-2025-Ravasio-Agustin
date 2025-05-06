@@ -1,0 +1,11 @@
+C:\Users\PC\Downloads\Nueva carpeta (8)\LogicaDeNegocio\obj\Debug\net8.0\LogicaDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\Nueva carpeta (8)\LogicaDeNegocio\obj\Debug\net8.0\LogicaDeNegocio.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\Nueva carpeta (8)\LogicaDeNegocio\obj\Debug\net8.0\LogicaDeNegocio.AssemblyInfo.cs
+C:\Users\PC\Downloads\Nueva carpeta (8)\LogicaDeNegocio\obj\Debug\net8.0\LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Nueva carpeta (8)\LogicaDeNegocio\bin\Debug\net8.0\LogicaDeNegocio.deps.json
+C:\Users\PC\Downloads\Nueva carpeta (8)\LogicaDeNegocio\bin\Debug\net8.0\LogicaDeNegocio.dll
+C:\Users\PC\Downloads\Nueva carpeta (8)\LogicaDeNegocio\bin\Debug\net8.0\LogicaDeNegocio.pdb
+C:\Users\PC\Downloads\Nueva carpeta (8)\LogicaDeNegocio\obj\Debug\net8.0\LogicaDeNegocio.dll
+C:\Users\PC\Downloads\Nueva carpeta (8)\LogicaDeNegocio\obj\Debug\net8.0\refint\LogicaDeNegocio.dll
+C:\Users\PC\Downloads\Nueva carpeta (8)\LogicaDeNegocio\obj\Debug\net8.0\LogicaDeNegocio.pdb
+C:\Users\PC\Downloads\Nueva carpeta (8)\LogicaDeNegocio\obj\Debug\net8.0\ref\LogicaDeNegocio.dll
